@@ -9,7 +9,7 @@ GitHub: https://github.com/gbariana2/workout-tracker
 
 ## What it does
 
-FitTrack has five core sections:
+FitTrack has four core sections:
 
 - **Log** — record a workout session with exercises, sets, reps, and weight
 - **Plans** — create and follow structured training templates
